@@ -3,13 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjkr2001&label=Profile%20views&color=0e75b6&style=flat" alt="vjkr2001" /> </p>
 
-- 🔭 I’m currently working on **Azure Data factory**
 
-- 🌱 I’m currently learning **azure data factory**
-
-- 🤝 I’m looking for help with **Azure Data factory**
-
-- 💬 Ask me about **python, Sql, Django, Azure**
+- 💬 Ask me about **python, Sql, html, css, javascript**
 
 - 📫 How to reach me **jaswanth.vardireddy@gmail.com**
 
